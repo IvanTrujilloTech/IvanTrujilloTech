@@ -1,0 +1,137 @@
+.centrado{
+    text-align: center;
+}
+
+.derecha{
+    text-align: right;
+    
+}
+.izquierda{
+    text-align: left;
+}
+.block{
+    block-size: auto;
+    background-color: rgb(135, 205, 222);
+    width: auto;
+    writing-mode: horizontal-tb;
+}  
+.section{
+    background-color: rgb(52, 52, 53);
+    block-size: auto;
+    height: 120px;
+    writing-mode: horizontal-tb;
+}
+.header{
+    background-color: rgb(7, 11, 26);
+    block-size: auto;
+    height: 50px;
+    writing-mode: horizontal-tb;
+}
+.nav{
+    font-size: 20px;
+    text-align: center;
+    color: #ddd;
+    text-decoration-color: white;
+    
+}
+.logo{
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    border-color: rgb(52, 52, 53);
+    padding: 5px;
+    width: 100px;
+    max-width: 100%;
+    height: auto;
+    float: left;
+}
+.foto{
+    display: block;
+    border-radius: 10%;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+div.galeria {
+    background-color: rgb(25,0,255);
+    overflow: auto;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    white-space: nowrap;
+    padding: 10px;
+}
+.texto{
+    block-size: auto;
+    text-align: left;
+    background-color: rgb(135, 148, 151);
+    width: auto;
+    writing-mode: horizontal-tb;
+}  
+.titulo{
+    block-size: auto;
+    text-align: center;
+    background-color: rgb(85, 92, 94);
+    width: auto;
+    writing-mode: horizontal-tb;
+}
+.footer{
+    block-size: auto;
+    text-align: center;
+    width: auto;
+    writing-mode: horizontal-tb;
+} 
+.block_prestamo{
+    block-size: auto;
+    background-color: rgb(195, 174, 236);
+    width: 1250px;
+    height: auto;
+    writing-mode: horizontal-tb;
+    display: block;
+    float:inline-start;
+    margin-right:20px;
+
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse:collapse;
+  }
+th, td {
+    padding: 5px;
+  } 
+p{
+    animation-duration: 3s;
+    animation-name: slidein;
+}
+
+@keyframes slidein{
+    from {
+      margin-left: 100%;
+      width: 300%;
+    }
+  
+    to {
+      margin-left: 0%;
+      width: 100%;
+    }
+  }
+
+  body{
+  padding:0% 3% 10% 3%;
+  text-align:center;
+  }
+  button{
+     border-radius: 50%;
+      cursor: pointer;
+      border: 1px solid #555;
+      text-align: center;
+      padding: 5px;
+      margin-left: 8px; 
+  }
+  .oscuro{
+      background-color: #222;
+      color: #e6e6e6;
+  }
+
+  
+
+

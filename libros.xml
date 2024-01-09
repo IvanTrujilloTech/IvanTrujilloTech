@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+    <libros>
+        <libro id="1">
+            <titulo>Don Quijote de la Mancha</titulo>
+            <autor>Miguel de Cervantes</autor>
+            <editorial>Planeta Diagostini</editorial>
+        </libro>
+
+        <libro id="2">
+            <titulo>El hombre iluminado</titulo>
+            <autor>Brandon Sanderson</autor>
+            <editorial>Nova</editorial>
+        </libro>
+
+        <libro id="3">
+            <titulo>El Infierno</titulo>
+            <autor>Carmen Mola</autor>
+            <editorial>Editorial Planeta</editorial>
+        </libro>
+
+        <libro id="4">
+            <titulo>Habitos atómicos</titulo>
+            <autor>James Clear</autor>
+            <editorial>Diana</editorial>
+        </libro>
+
+        <libro id="5">
+            <titulo>La armadura de la luz</titulo>
+            <autor>Ken Follet</autor>
+            <editorial>Plaza and Janes</editorial>
+        </libro>
+    </libros>
+
+    <eventos>
+        <evento id="1">
+            <nombre>Concierto municipal</nombre>
+            <dia>6</dia>
+            <mes>Enero</mes>
+            <año>2024</año>
+            <participantes>Melendi</participantes>
+        </evento>
+        <evento id="2">
+            <nombre>Lectura en conjunto</nombre>
+            <dia>12</dia>
+            <mes>Febrero</mes>
+            <año>2024</año>
+            <participantes>Todos los asistentes antes de las 17:00</participantes>
+        </evento>
+        <evento id="3">
+            <nombre>Visita guiada a la biblioteca</nombre>
+            <dia>18</dia>
+            <mes>Febrero</mes>
+            <año>2024</año>
+            <participantes>Todos los asistentes antes de las 17:00</participantes>
+        </evento>
+        <evento id="4">
+            <nombre>Casal de primavera</nombre>
+            <dia>22</dia>
+            <mes>Abril</mes>
+            <año>2024</año>
+            <participantes>Todos los asistentes antes de las 17:00</participantes>
+        </evento>
+        <evento id="5">
+            <nombre>Sala de cultura </nombre>
+            <dia>10</dia>
+            <mes>Junio</mes>
+            <año>2024</año>
+            <participantes>Todos los asistentes antes de las 17:00</participantes>
+        </evento>
+    </eventos>
