@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <eventos>
+        <evento id="1">
+            <nombre>Concierto municipal</nombre>
+            <dia>6</dia>
+            <mes>Enero</mes>
+            <año>2024</año>
+            <participantes>Melendi</participantes>
+        </evento>
+        <evento id="2">
+            <nombre>Lectura en conjunto</nombre>
+            <dia>12</dia>
+            <mes>Febrero</mes>
+            <año>2024</año>
+            <participantes>Todos los asistentes antes de las 17:00</participantes>
+        </evento>
+        <evento id="3">
+            <nombre>Visita guiada a la biblioteca</nombre>
+            <dia>18</dia>
+            <mes>Febrero</mes>
+            <año>2024</año>
+            <participantes>Todos los asistentes antes de las 10:00</participantes>
+        </evento>
+        <evento id="4">
+            <nombre>Casal de primavera</nombre>
+            <dia>22</dia>
+            <mes>Abril</mes>
+            <año>2024</año>
+            <participantes>Todos los asistentes antes de las 20:00</participantes>
+        </evento>
+        <evento id="5">
+            <nombre>Sala de cultura </nombre>
+            <dia>10</dia>
+            <mes>Junio</mes>
+            <año>2024</año>
+            <participantes>Todos los asistentes antes de las 11:00</participantes>
+        </evento>
+    </eventos>

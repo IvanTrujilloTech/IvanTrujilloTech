@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <eventos>
+        <evento id="1">
+            <nombre>Cuentacuentos</nombre>
+            <dia>6</dia>
+            <mes>Enero</mes>
+            <año>2024</año>
+            <participantes>Solo niños menores de 5 años a partir de las 13:00</participantes>
+        </evento>
+        <evento id="2">
+            <nombre>Juegos de mesa infantiles</nombre>
+            <dia>12</dia>
+            <mes>Febrero</mes>
+            <año>2024</año>
+            <participantes>Todos los asistentes antes de las 17:00</participantes>
+        </evento>
+        <evento id="3">
+            <nombre>Club de lectura</nombre>
+            <dia>18</dia>
+            <mes>Febrero</mes>
+            <año>2024</año>
+            <participantes>Todos los asistentes antes de las 10:00</participantes>
+        </evento>
+        <evento id="4">
+            <nombre>Casal de primavera</nombre>
+            <dia>22</dia>
+            <mes>Abril</mes>
+            <año>2024</año>
+            <participantes>Solo niños mayores a 6 años antes de las 11:00</participantes>
+        </evento>
+        <evento id="5">
+            <nombre>Manualidades</nombre>
+            <dia>10</dia>
+            <mes>Junio</mes>
+            <año>2024</año>
+            <participantes>Todos los asistentes antes de las 17:00</participantes>
+        </evento>
+    </eventos>

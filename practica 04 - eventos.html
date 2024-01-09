@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Biblioteca Plaza Masadas - Eventos</title>
+        <link rel="icon" href="https://bibliotecavirtual.diba.cat/image/image_gallery?uuid=4e5c4a7e-eb87-426e-85b3-00139fb6177f&groupId=10934&t=1371716519148" type="image/icon type">
+        <link rel="stylesheet" href="style biblioteca.css">
+    </head>
+    <header>
+        <section class="section"><h1 class="block"></h1>
+            <a href="practica 04 - inicio.html"><img class="logo" src="https://bibliotecavirtual.diba.cat/image/image_gallery?uuid=4e5c4a7e-eb87-426e-85b3-00139fb6177f&groupId=10934&t=1371716519148"/></a>
+            <nav>
+                <p class="nav"><a style="color: white;" href="practica 04 - inicio.html" data-icon="$">Inicio</a> |
+                <a style="color: white;" href="Practica 04 - servicios.html">Servicios</a> |
+                <a style="color: white;" href="practica 04 - eventos.html">Eventos</a> |
+                <a style="color: white;" href="practica 04 - contacto.html">Contacto</a></p>
+            </nav>     
+        <button onclick="Oscuro()">Modo oscuro</button> 
+        <script>
+            function Oscuro() {
+                let element = document.body;
+                element.classList.toggle("oscuro");
+            }
+        </script>
+    </header>
+    <body>
+        <h1 class="centrado">Nuestros eventos disponibles:</h1>
+        <div class="texto" id="infoEventos"></div>
+    </body>
+    <script src="app.js"></script>
+    <footer class="footer">Derechos de autor reservados ©</footer>
+    </html>
