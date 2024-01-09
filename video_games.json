@@ -1,0 +1,42 @@
+[
+    {
+        "name": "League of Legends",
+        "genre": "MOBA",
+        "developer": "Riot Games",
+        "description": "League of Legends, es un videojuego multijugador de arena de batalla en línea desarrollado y publicado por Riot Games. Inspirándose en Defense of the Ancients, un mapa personalizado para Warcraft III, los fundadores de Riot buscaron desarrollar un juego independiente del mismo género.",
+        "image": "http://www.rw-designer.com/icon-view/21516.png",
+        "link": "lol.html"
+    },
+    {
+        "name": "World of Warcraft",
+        "genre": "MMORPG",
+        "developer": "Blizzard Entertainment",
+        "description": "World of Warcraft es un videojuego de rol multijugador masivo en l\u00ednea desarrollado por Blizzard Entertainment. Es el cuarto juego lanzado establecido en el universo fant\u00e1stico de Warcraft, el cual fue introducido por primera vez por Warcraft: Orcs & Humans en 1994.\u200b",
+        "image": "http://www.rw-designer.com/icon-view/21526.png",
+        "link": "wow.html"
+    },
+    {
+        "name": "Dota 2",
+        "genre": "MOBA",
+        "developer": "Blizzard Entertainment",
+        "description": "Dota 2 es un videojuego perteneciente al género de Arena de batalla en línea ARTS, también conocido en inglés como MOBA, fue lanzado el 9 de julio del año 2013. El juego fue desarrollado por la empresa Valve Corporation.",
+        "image": "http://www.rw-designer.com/icon-view/21512.png",
+        "link": "dota2.html"
+    },
+    {
+        "name": "Rocket League",
+        "genre": "Deportes",
+        "developer": "Epic Games",
+        "description": "Rocket League es un videojuego que combina el fútbol con los vehículos. Fue desarrollado por Psyonix y lanzado el 7 de julio de 2015. Fue lanzado Free to play en septiembre de 2020. Se encuentra disponible en español, y tiene modos de juego cooperativo, de un jugador y en línea.",
+        "image": "http://www.rw-designer.com/icon-view/21522.png",
+        "link": "rocket.html"
+    },
+    {
+        "name": "Overwatch",
+        "genre": "Shooter",
+        "developer": "Blizzard Entertainment",
+        "description": "Overwatch es una franquicia multimedia centrada en una serie de videojuegos de disparos en primera persona multijugador en línea desarrollados por Blizzard Entertainment: Overwatch se lanzó en 2016 y Overwatch 2 se lanzó en 2022.",
+        "image": "http://www.rw-designer.com/icon-view/21518.png",
+        "link": "overwatch.html"
+    }
+]
