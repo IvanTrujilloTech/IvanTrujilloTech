@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying **Cross-Platform Application Development**
 
-- 👨‍💻 All of my projects are available at (Spanish) [https://ivantrujillotech.github.io/IvanTrujilloTech/](https://ivantrujillotech.github.io/IvanTrujilloTech/)
+- 👨‍💻 (Spanish) All of my projects are available at  [https://ivantrujillotech.github.io/IvanTrujilloTech/](https://ivantrujillotech.github.io/IvanTrujilloTech/)
 
 - 📫 How to reach me **ivan.trujillo.barbero@gmail.com**
 
