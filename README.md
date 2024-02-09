@@ -1,1 +1,1 @@
-This repository was just made in order to learn how to host a HTML web using GitHub, I use this website as a portfolio, so, feel free to check it out: https://ivantrujillotech.github.io/IvanTrujilloTech/
+
