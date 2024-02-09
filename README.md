@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ivan.trujillo.barbero@gmail.com**
 
-- ⚡ Fun fact: **I LOVE World of Warcraft**
+- ⚡ Fun fact: **I'm a self-taught guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
