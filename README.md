@@ -1,59 +1,36 @@
-# 🚀 Iván Trujillo | Futuristic Portfolio
+# Hi there, I'm Iván! 👋
 
-Este es mi portfolio profesional, diseñado con una estética futurista y masculina, enfocado en mostrar mi trayectoria como Desarrollador de Software y Web.
+### 🚀 Software & Web Developer | Dual DAM & DAW Graduate
+
+I am a passionate developer focused on building scalable solutions and high-quality web experiences. With a solid academic background from **Monlau**, I thrive in environments that challenge my algorithmic thinking and technical creativity.
 
 ## 🌐 Live Demo
-Puedes ver el portfolio en vivo **[aquí](https://ivan-trujillo-tech.vercel.app/)**
+Check my portfolio **[here](https://ivan-trujillo-tech.vercel.app/)**
 
 ---
 
-## 🛠️ Stack Tecnológico
-El proyecto ha sido desarrollado utilizando tecnologías modernas para garantizar rendimiento y una experiencia de usuario premium:
+### 💼 Experience & Projects
+- 🇪🇺 **IRIS Technologies:** Developed algorithms for an **EU-backed project** using **SCRUM** methodology.
+- 🚀 **AJE Intra (Start-up):** Web growth, SEO optimization, and CMS management (WordPress/Wix).
+- 🌐 **Freelance:** Delivering custom web solutions (e.g., [elevalar.com](https://elevalar.com)).
 
-- **Core:** [Vite](https://vitejs.dev/) + Vanilla JavaScript
-- **Styling:** CSS3 Avanzado (Glassmorphism, CSS Variables, Animations)
-- **Icons:** [Lucide Icons](https://lucide.dev/)
-- **Deployment:** Optimizado para GitHub Pages / Vercel
-
-## 💎 Características Principales
-- **Diseño Cyber-Tech:** Estética oscura con acentos cian y tipografía HUD.
-- **Efecto Breathing:** Animación constante en el nombre principal para un look "vivo".
-- **Responsive Design:** Totalmente adaptado a dispositivos móviles y tablets.
-- **Secciones Dinámicas:** Proyectos, Experiencia categorizada y Stack Tecnológico organizado.
+### 🎓 Education & Future
+- **Dual Higher Degree:** Multiplatform (DAM) & Web Applications Development (DAW) at **Monlau**.
+- **Upcoming:** Master's in **Big Data & Artificial Intelligence**.
 
 ---
 
-## 📂 Estructura del Proyecto
-```text
-├── src/
-│   ├── main.js        # Lógica de animaciones y scroll
-│   └── style.css      # Sistema de diseño y estilos cyber
-├── index.html         # Estructura principal
-└── vite.config.js     # Configuración de despliegue
-```
-
-## 🚀 Instalación y Uso Local
-Si quieres clonar este proyecto y ejecutarlo en tu máquina:
-
-1. **Clona el repositorio:**
-   ```bash
-   git clone https://github.com/IvanTrujilloTech/mi-portfolio.git
-   ```
-2. **Instala las dependencias:**
-   ```bash
-   npm install
-   ```
-3. **Ejecuta el servidor de desarrollo:**
-   ```bash
-   npm run dev
-   ```
+### 🛠️ Tech Stack & Tools
+- **Technologies:** Java, C++, Python, SQL, Javascript, Angular, React and so much more!
+- **Web:** HTML5, CSS3, WordPress, SEO, Wix
+- **Methodologies:** Agile (SCRUM), Algorithmic Thinking
+- **Next steps:** Diving into Big Data & AI concepts
 
 ---
 
-## 📫 Conecta conmigo
-- **LinkedIn:** [Iván Trujillo Barbero](https://www.linkedin.com/in/iván-trujillo-barbero-tech/)
-- **GitHub:** [@IvanTrujilloTech](https://github.com/IvanTrujilloTech)
-- **Email:** ivan.trujillo.barbero@gmail.com
+### 📫 Connect with me
+- 🌍 Based in Barcelona
+- 💬 Ask me about my experience with **EU-funded projects** or web optimization.
+- [LinkedIn](https://www.linkedin.com/in/iv%C3%A1n-trujillo-barbero-tech/) 
 
 ---
-Diseñado con ❤️ por Iván Trujillo.
