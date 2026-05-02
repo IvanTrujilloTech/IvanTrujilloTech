@@ -2,10 +2,8 @@
 
 Este es mi portfolio profesional, diseñado con una estética futurista y masculina, enfocado en mostrar mi trayectoria como Desarrollador de Software y Web.
 
-![Portfolio Preview](public/preview.png) *(Puedes añadir una captura de tu portfolio aquí)*
-
 ## 🌐 Live Demo
-Puedes ver el portfolio en vivo aquí: **[IvanTrujillo.tech](https://IvanTrujilloTech.github.io/mi-portfolio/)** *(O tu link de Vercel/GitHub)*
+Puedes ver el portfolio en vivo **[aquí](https://ivan-trujillo-tech.vercel.app/)**
 
 ---
 
