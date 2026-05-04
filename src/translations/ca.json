@@ -1,0 +1,60 @@
+{
+    "nav": {
+        "home": "Inici",
+        "projects": "Projectes",
+        "skills": "Habilitats",
+        "experience": "Experiència",
+        "contact": "Contacte",
+        "cta": "Parlem-ne"
+    },
+    "hero": {
+        "subtitle": "DESENVOLUPADOR FULLSTACK",
+        "description": "Especialitzat en construir solucions escalables i experiències web d'alt nivell. Graduat en DAM i DAW amb enfocament en pensament algorítmic i creativitat tècnica.",
+        "cta": "Veure Projectes"
+    },
+    "projects": {
+        "title": "Projectes Seleccionats",
+        "project1": {
+            "title": "Youtube Massive Downloader",
+            "description": "Eina avançada de descàrrega massiva dissenyada per evadir restriccions anti-bot (403 Forbidden) mitjançant arquitectura d'emulació híbrida."
+        },
+        "project2": {
+            "title": "Fuggler Frenzy",
+            "description": "Aplicació web interactiva desenvolupada amb Vue per a la gestió i visualització de col·leccions digitals amb interfície dinàmica."
+        },
+        "explore": "Explorar Repo",
+        "upcoming": "Properament..."
+    },
+    "skills": {
+        "title": "Stack Tecnològic",
+        "frontend": "Frontend",
+        "backend": "Backend i Base de Dades",
+        "tools": "Eines i Disseny"
+    },
+    "experience": {
+        "title": "Trajectòria",
+        "present": "Present",
+        "freelance": {
+            "role": "Desenvolupador Fullstack Freelance",
+            "company": "Projectes Independents",
+            "description": "Entrega de solucions web personalitzades, incloent-hi elevalar.com i sistemes a mida."
+        },
+        "startup": {
+            "role": "Web Growth & SEO",
+            "company": "AJE Intra (Start-up)",
+            "description": "Optimització SEO i gestió de CMS per al creixement exponencial del trànsit web."
+        },
+        "iris": {
+            "role": "Software Developer",
+            "company": "IRIS Technologies",
+            "description": "Desenvolupament d'algorismes complexos per a projectes recolzats per la UE sota metodologia SCRUM."
+        }
+    },
+    "contact": {
+        "title": "Iniciem un projecte?",
+        "description": "Actualment disponible per a noves oportunitats i col·laboracions tècniques."
+    },
+    "footer": {
+        "copyright": "© 2026 Iván Trujillo Barbero. Dissenyat per al futur."
+    }
+}

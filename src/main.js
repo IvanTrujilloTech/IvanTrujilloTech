@@ -1,4 +1,5 @@
 import './style.css'
+import { initI18n } from './i18n'
 
 // Main interactivity for the portfolio
 
@@ -41,6 +42,7 @@ const revealItems = () => {
 
 // Initialize
 document.addEventListener('DOMContentLoaded', () => {
+    initI18n();
     revealItems();
     
     // Initialize Lucide icons if global lucide is available

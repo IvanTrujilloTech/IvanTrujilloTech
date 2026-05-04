@@ -1,0 +1,60 @@
+{
+    "nav": {
+        "home": "Home",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience",
+        "contact": "Contact",
+        "cta": "Let's Talk"
+    },
+    "hero": {
+        "subtitle": "FULLSTACK DEVELOPER",
+        "description": "Specialized in building scalable solutions and high-level web experiences. Graduated in DAM & DAW with a focus on algorithmic thinking and technical creativity.",
+        "cta": "View Projects"
+    },
+    "projects": {
+        "title": "Selected Projects",
+        "project1": {
+            "title": "Youtube Massive Downloader",
+            "description": "Advanced mass download tool designed to bypass anti-bot restrictions (403 Forbidden) using hybrid emulation architecture."
+        },
+        "project2": {
+            "title": "Fuggler Frenzy",
+            "description": "Interactive web application developed with Vue for the management and visualization of digital collections with a dynamic interface."
+        },
+        "explore": "Explore Repo",
+        "upcoming": "Coming Soon..."
+    },
+    "skills": {
+        "title": "Tech Stack",
+        "frontend": "Frontend",
+        "backend": "Backend & Database",
+        "tools": "Tools & Design"
+    },
+    "experience": {
+        "title": "Career Path",
+        "present": "Present",
+        "freelance": {
+            "role": "Freelance Fullstack Developer",
+            "company": "Independent Projects",
+            "description": "Delivery of personalized web solutions, including elevalar.com and custom systems."
+        },
+        "startup": {
+            "role": "Web Growth & SEO",
+            "company": "AJE Intra (Start-up)",
+            "description": "SEO optimization and CMS management for exponential web traffic growth."
+        },
+        "iris": {
+            "role": "Software Developer",
+            "company": "IRIS Technologies",
+            "description": "Development of complex algorithms for EU-backed projects under SCRUM methodology."
+        }
+    },
+    "contact": {
+        "title": "Shall we start a project?",
+        "description": "Currently available for new opportunities and technical collaborations."
+    },
+    "footer": {
+        "copyright": "© 2026 Iván Trujillo Barbero. Designed for the future."
+    }
+}

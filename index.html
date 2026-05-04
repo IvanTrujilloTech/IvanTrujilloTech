@@ -19,13 +19,16 @@
         <div class="container">
             <a href="#" class="logo">IVÁN TRUJILLO</a>
             <ul class="nav-links">
-                <li><a href="#hero">Inicio</a></li>
-                <li><a href="#projects">Proyectos</a></li>
-                <li><a href="#skills">Habilidades</a></li>
-                <li><a href="#experience">Experiencia</a></li>
-                <li><a href="#contact">Contacto</a></li>
+                <li><a href="#hero" data-i18n="nav.home">Inicio</a></li>
+                <li><a href="#projects" data-i18n="nav.projects">Proyectos</a></li>
+                <li><a href="#skills" data-i18n="nav.skills">Habilidades</a></li>
+                <li><a href="#experience" data-i18n="nav.experience">Experiencia</a></li>
+                <li><a href="#contact" data-i18n="nav.contact">Contacto</a></li>
             </ul>
-            <a href="mailto:ivan.trujillo.barbero@gmail.com" class="btn-primary">Hablemos</a>
+            <div class="nav-actions">
+                <div id="lang-switcher" class="lang-switcher"></div>
+                <a href="mailto:ivan.trujillo.barbero@gmail.com" class="btn-primary" data-i18n="nav.cta">Hablemos</a>
+            </div>
         </div>
     </nav>
 
@@ -34,16 +37,16 @@
         <section id="hero">
             <div class="container">
                 <div class="hero-content">
-                    <span class="hero-subtitle">DESARROLLADOR FULLSTACK</span>
+                    <span class="hero-subtitle" data-i18n="hero.subtitle">DESARROLLADOR FULLSTACK</span>
                     <h1 class="hero-title">
                         IVÁN <span>TRUJILLO</span>
                     </h1>
-                    <p class="hero-description">
+                    <p class="hero-description" data-i18n="hero.description">
                         Especializado en construir soluciones escalables y experiencias web de alto nivel.
                         Graduado en DAM & DAW con enfoque en pensamiento algorítmico y creatividad técnica.
                     </p>
                     <div class="hero-btns">
-                        <a href="#projects" class="btn-primary">Ver Proyectos</a>
+                        <a href="#projects" class="btn-primary" data-i18n="hero.cta">Ver Proyectos</a>
                     </div>
                 </div>
             </div>
@@ -52,7 +55,7 @@
         <!-- Projects Section -->
         <section id="projects">
             <div class="container">
-                <h2 class="section-title">Proyectos Seleccionados</h2>
+                <h2 class="section-title" data-i18n="projects.title">Proyectos Seleccionados</h2>
                 <div class="projects-grid">
                     <!-- Project 1 -->
                     <div class="project-card glass">
@@ -60,12 +63,12 @@
                             <span class="tag">Python</span>
                             <span class="tag">Automation</span>
                         </div>
-                        <h3>Youtube Massive Downloader</h3>
-                        <p>Herramienta avanzada de descarga masiva diseñada para evadir restricciones anti-bot (403
+                        <h3 data-i18n="projects.project1.title">Youtube Massive Downloader</h3>
+                        <p data-i18n="projects.project1.description">Herramienta avanzada de descarga masiva diseñada para evadir restricciones anti-bot (403
                             Forbidden) mediante arquitectura de emulación híbrida.</p>
                         <a href="https://github.com/IvanTrujilloTech/Youtube-Massive-Downloader" target="_blank"
                             class="project-link">
-                            Explorar Repo <i data-lucide="external-link"></i>
+                            <span data-i18n="projects.explore">Explorar Repo</span> <i data-lucide="external-link"></i>
                         </a>
                     </div>
 
@@ -75,11 +78,11 @@
                             <span class="tag">Vue.js</span>
                             <span class="tag">Game Dev</span>
                         </div>
-                        <h3>Fuggler Frenzy</h3>
-                        <p>Aplicación web interactiva desarrollada con Vue para la gestión y visualización de
+                        <h3 data-i18n="projects.project2.title">Fuggler Frenzy</h3>
+                        <p data-i18n="projects.project2.description">Aplicación web interactiva desarrollada con Vue para la gestión y visualización de
                             colecciones digitales con interfaz dinámica.</p>
-                        <a href="#" class="project-link">
-                            Proximamente... <i data-lucide="external-link"></i>
+                        <a href="https://github.com/IvanTrujilloTech/Fuggler-Frenzy" class="project-link">
+                            <span data-i18n="projects.upcoming">Proximamente...</span> <i data-lucide="external-link"></i>
                         </a>
                     </div>
                 </div>
@@ -89,11 +92,11 @@
         <!-- Skills Section -->
         <section id="skills">
             <div class="container">
-                <h2 class="section-title">Stack Tecnológico</h2>
+                <h2 class="section-title" data-i18n="skills.title">Stack Tecnológico</h2>
                 <div class="skills-container">
                     <!-- Frontend -->
                     <div class="skill-category">
-                        <span class="skill-category-title">Frontend</span>
+                        <span class="skill-category-title" data-i18n="skills.frontend">Frontend</span>
                         <div class="skills-wrapper">
                             <div class="skill-badge">HTML5</div>
                             <div class="skill-badge">CSS3</div>
@@ -109,7 +112,7 @@
 
                     <!-- Backend -->
                     <div class="skill-category">
-                        <span class="skill-category-title">Backend & Database</span>
+                        <span class="skill-category-title" data-i18n="skills.backend">Backend & Database</span>
                         <div class="skills-wrapper">
                             <div class="skill-badge">PHP</div>
                             <div class="skill-badge">MySQL</div>
@@ -123,7 +126,7 @@
 
                     <!-- Tools -->
                     <div class="skill-category">
-                        <span class="skill-category-title">Herramientas & Diseño</span>
+                        <span class="skill-category-title" data-i18n="skills.tools">Herramientas & Diseño</span>
                         <div class="skills-wrapper">
                             <div class="skill-badge">Git</div>
                             <div class="skill-badge">GitHub</div>
@@ -139,28 +142,28 @@
         <!-- Experience Section -->
         <section id="experience">
             <div class="container">
-                <h2 class="section-title">Trayectoria</h2>
+                <h2 class="section-title" data-i18n="experience.title">Trayectoria</h2>
                 <div class="timeline">
                     <div class="timeline-item">
-                        <span class="timeline-date">2026 - Presente</span>
-                        <h3 class="timeline-role">Fullstack Developer Freelance</h3>
-                        <span class="timeline-company">Proyectos Independientes</span>
-                        <p>Entrega de soluciones web personalizadas, incluyendo <a style="color: var(--accent-cyan);"
+                        <span class="timeline-date">2026 - <span data-i18n="experience.present">Presente</span></span>
+                        <h3 class="timeline-role" data-i18n="experience.freelance.role">Fullstack Developer Freelance</h3>
+                        <span class="timeline-company" data-i18n="experience.freelance.company">Proyectos Independientes</span>
+                        <p data-i18n="experience.freelance.description">Entrega de soluciones web personalizadas, incluyendo <a style="color: var(--accent-cyan);"
                                 href="https://elevalar.com" target="_blank">elevalar.com</a> y sistemas a medida.</p>
                     </div>
 
                     <div class="timeline-item">
                         <span class="timeline-date">Sept 2025 - Abr 2026</span>
-                        <h3 class="timeline-role">Web Growth & SEO</h3>
-                        <span class="timeline-company">AJE Intra (Start-up)</span>
-                        <p>Optimización SEO y gestión de CMS para crecimiento exponencial de tráfico web.</p>
+                        <h3 class="timeline-role" data-i18n="experience.startup.role">Web Growth & SEO</h3>
+                        <span class="timeline-company" data-i18n="experience.startup.company">AJE Intra (Start-up)</span>
+                        <p data-i18n="experience.startup.description">Optimización SEO y gestión de CMS para crecimiento exponencial de tráfico web.</p>
                     </div>
 
                     <div class="timeline-item">
                         <span class="timeline-date">Sept 2024 - Feb 2025</span>
-                        <h3 class="timeline-role">Software Developer</h3>
-                        <span class="timeline-company">IRIS Technologies</span>
-                        <p>Desarrollo de algoritmos complejos para proyectos respaldados por la UE bajo metodología
+                        <h3 class="timeline-role" data-i18n="experience.iris.role">Software Developer</h3>
+                        <span class="timeline-company" data-i18n="experience.iris.company">IRIS Technologies</span>
+                        <p data-i18n="experience.iris.description">Desarrollo de algoritmos complejos para proyectos respaldados por la UE bajo metodología
                             SCRUM.</p>
                     </div>
                 </div>
@@ -171,8 +174,8 @@
         <section id="contact">
             <div class="container">
                 <div class="contact-box glass">
-                    <h2 class="tech-font">¿Iniciamos un proyecto?</h2>
-                    <p>Actualmente disponible para nuevas oportunidades y colaboraciones técnicas.</p>
+                    <h2 class="tech-font" data-i18n="contact.title">¿Iniciamos un proyecto?</h2>
+                    <p data-i18n="contact.description">Actualmente disponible para nuevas oportunidades y colaboraciones técnicas.</p>
                     <a href="mailto:ivan.trujillo.barbero@gmail.com"
                         class="contact-email tech-font">ivan.trujillo.barbero@gmail.com</a>
                     <div class="social-links">
@@ -206,7 +209,7 @@
 
     <footer>
         <div class="container">
-            <p>&copy; 2026 Iván Trujillo Barbero. Diseñado para el futuro.</p>
+            <p data-i18n="footer.copyright">&copy; 2026 Iván Trujillo Barbero. Diseñado para el futuro.</p>
         </div>
     </footer>
 
